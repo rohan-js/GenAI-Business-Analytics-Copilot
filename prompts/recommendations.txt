@@ -1,0 +1,32 @@
+Based on the analysis below, provide actionable business recommendations.
+
+ANALYSIS SUMMARY:
+{analysis_summary}
+
+KEY FINDINGS:
+{findings}
+
+DATASET CONTEXT:
+{context}
+
+Provide exactly 3 recommendations in this format:
+
+**RECOMMENDATION 1: [Clear Action Title]**
+- **What to do**: [Specific, actionable step - be precise about what action to take]
+- **Why**: [Data-backed rationale using specific numbers from the findings]
+- **Expected impact**: [Quantified outcome if possible, or qualitative benefit]
+- **Assumption**: [What must be true for this recommendation to work]
+
+**RECOMMENDATION 2: [Clear Action Title]**
+[Same format as above]
+
+**RECOMMENDATION 3: [Clear Action Title]**
+[Same format as above]
+
+GUIDELINES:
+- Be consulting-grade specific - avoid generic advice
+- Each recommendation should be directly tied to a finding
+- Prioritize by potential impact
+- Include specific metrics or thresholds where applicable
+- Avoid suggestions like "analyze more" - focus on actions
+- Consider feasibility and resources needed
